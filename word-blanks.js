@@ -3,7 +3,7 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
   var result = "My "+myAdjective+" "+myNoun+" "+myVerb+" very "+myAdverb+".";
 
   // Your code above this line
-  return result;
+   return result;
 }
 
 // Change the words here to test your function
